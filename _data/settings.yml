@@ -10,7 +10,7 @@ description: YD is modern minimal theme by Jekyll inspired
 author:
   name: Yuxin Deng
   image: 01.jpg
-  say-hello: Halo, I’m <strong>Yuxin Deng</strong>, welcome to my secret world.
+  greeting: Halo, I’m <strong>Yuxin Deng</strong>, welcome to my secret world.
   bio: Designs, talks, and writes about <strong>web develop</strong>, <strong>technology</strong>, <strong>information security</strong>. Loves <a href="#">snowboard, dance, golf</a> & driving my car.
 
 
