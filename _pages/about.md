@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aboutxxxx
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 image: 01.jpg
 ---
 
