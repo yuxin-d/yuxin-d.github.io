@@ -17,21 +17,21 @@ author:
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
+facebook: https://www.facebook.com/yuxin.deng.5454 # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
+instagram: https://www.instagram.com/_irene_deng/ # Add your Instagram handle
 pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: miss-deng # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: _irene_deng # Add instagram username
 
 
 #-------------------------------
