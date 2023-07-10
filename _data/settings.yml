@@ -10,22 +10,23 @@ description: modern minimal theme by Jekyll inspired
 author:
   name: Yuxin Deng
   image: 01.jpg
-  greeting: Halo, I’m <strong>Yuxin Deng</strong>, welcome to my secret world.
+  greeting: I’m <strong>Yuxin Deng</strong>, welcome to my secret world.
   bio: Designs, talks, and writes about <strong>web develop</strong>, <strong>technology</strong>, <strong>information security</strong>. Loves <a href="#">snowboard, dance, golf</a> & driving my car.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+#twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://www.facebook.com/yuxin.deng.5454 # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
+github: https://github.com/yuxin-d
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://www.instagram.com/_irene_deng/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: miss-deng # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: ms-deng # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
