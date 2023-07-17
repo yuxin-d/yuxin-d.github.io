@@ -9,10 +9,10 @@ image: 01.jpg
 ***
 {% highlight markdown %}
 
-<p class="" style="white-space:pre-wrap;">
-<strong> University of British Columbia </strong>  <em> Vancouver, BC </em> 
 
-<small>2017 - 2022</small>
+University of British Columbia, Vancouver, BC 
+
+2017 - 2022</small>
 
 <strong> Bachelor of Science </strong>
 
