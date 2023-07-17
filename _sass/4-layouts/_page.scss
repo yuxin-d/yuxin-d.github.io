@@ -22,7 +22,9 @@
   
   .page-image {
     background-size: cover;
-    background-position: 25% 25%;
+    height: 400px;
+    width: 100%;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-color: $light-gray;
     &:after {
@@ -48,7 +50,7 @@
 }
 
 .page-box {
-  text-align: left;
+  text-align: center;
 
   .back-arrow {
     a {
