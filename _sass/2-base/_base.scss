@@ -86,7 +86,7 @@ pre {
   padding: 15px;
   margin-bottom: 0;
   font-size: 14px;
-  white-space: pre-wrap;
+  white-space: wrap; //修改滚动条，pre-wrap有，wrap没有
   word-wrap: break-word;
   word-break: break-all;
 }
