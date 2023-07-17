@@ -8,7 +8,7 @@ images: [l1.jpg,l2.jpg]
 ***
 
 
-![]({{site.baseurl}}/images/l6.jpg)
+![]({{site.baseurl}}/images/l5.jpg)
 *Eat in Boston*
 
 ***
