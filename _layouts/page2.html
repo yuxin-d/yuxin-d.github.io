@@ -11,8 +11,8 @@ layout: default
         </div>
     </div>
     {% if page.image %}
-    <div class="page__head">
-        <div class="page-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
+    <div class="page__h">
+        <div class="page-image" style="background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url({{site.baseurl}}/images/{{page.image}})"></div>
     </div>
     {% endif %}
 </div>
@@ -20,7 +20,7 @@ layout: default
 <div class="container">
     <div class="row">
         <!-- begin page -->
-        <article class="page col col-8 col-t-10 col-m-12">
+        <article class="page col col-8 col-t-8 col-m-15">
             <div class="page__content">
                 {{ content }}
             </div>
