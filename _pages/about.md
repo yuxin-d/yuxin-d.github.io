@@ -36,7 +36,7 @@ image: 01.jpg
 
 Expected Completion: Dec 2023
 
-**Master of Science**
+** Master of Science
 
 Mathematical Finance & Financial Technology
 
