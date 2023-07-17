@@ -7,16 +7,16 @@ image: 01.jpg
 
 
 
-{% highlight markdown %}
 
 
-**University of British Columbia** *, Vancouver, BC*
 
-**Bachelor of Science**
+<strong>University of British Columbia</strong><i>, Vancouver, BC</i>
 
-**Major in Computer Science**
+<strong>Bachelor of Science</strong>
 
-{% endhighlight %}
+<strong>Major in Computer Science</strong>
+
+
 
 
 
