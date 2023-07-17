@@ -6,16 +6,15 @@ image: 01.jpg
 ---
 
 
-
-
-
-
-<strong>University of British Columbia</strong><i>, Vancouver, BC</i>
+<div>
+<pre>
+<strong>University of British Columbia</strong>, <i>Vancouver, BC</i>
 
 <strong>Bachelor of Science</strong>
 
 <strong>Major in Computer Science</strong>
-
+</pre>
+</div>
 
 
 
@@ -27,9 +26,9 @@ image: 01.jpg
 
 <div>
 <pre>
-<strong>Boston University, Questrom School of Business</strong><i>, Boston, MA</i>
+<strong>Boston University, Questrom School of Business</strong>, <i>Boston, MA</i>
 
-<p>Expected Completion: Dec 2023</p>
+Expected Completion: Dec 2023
 
 <strong>Master of Science</strong>
 
@@ -39,18 +38,6 @@ image: 01.jpg
 
 
 
-
-***
-
-<div>
-<pre> These are some lorem texts: Lorem ipsum 
-
-dolor sit                amet consectetur adipisicing elit. Amet rem nam ea nihil fuga doloribus voluptatem sed officiis iusto. Eveniet quaerat sit quisquam                consequatur necessitatibus
-
-
-totam placeat, ut unde                  nesciunt.
-</pre>
-</div>
 
 
 
