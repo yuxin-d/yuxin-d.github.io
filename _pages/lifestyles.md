@@ -13,8 +13,8 @@ images: [l1.jpg,l2.jpg]
 ***
 
 
-<img height="20" src="{{site.baseurl}}/images/l5.jpg" width="15"/>
-*Eat in Boston*
+<img height="200px" src="{{site.baseurl}}/images/l5.jpg" width="150px"/>
+_Eat in Boston_
 
 ***
 
