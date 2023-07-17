@@ -26,19 +26,12 @@ image: 01.jpg
 
 
 
+<strong>Boston University, Questrom School of Business</strong><i>, Boston, MA</i>
+<br> </b>
+<p>Expected Completion: Dec 2023</p>
+<strong>Master of Science</strong>
+<br> </b>
+<strong>Mathematical Finance & Financial Technology</strong>
 
 
 
-{% highlight markdown %}
-
-
-**Boston University, Questrom School of Business** *, Boston, MA*
-
-Expected Completion: Dec 2023
-
-** Master of Science
-
-Mathematical Finance & Financial Technology
-
-
-{% endhighlight %}
