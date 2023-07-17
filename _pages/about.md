@@ -6,24 +6,22 @@ image: 01.jpg
 ---
 
 
-***
+
 {% highlight markdown %}
 
 
-University of British Columbia, Vancouver, BC 
+**University of British Columbia** _, Vancouver, BC_
 
-2017 - 2022</small>
+**Bachelor of Science**
 
-<strong> Bachelor of Science </strong>
-
-<strong> Major in Computer Science </strong> </p>
+**Major in Computer Science**
 
 {% endhighlight %}
 
 
 
 
-
+***
 
 
 
@@ -33,12 +31,12 @@ University of British Columbia, Vancouver, BC
 
 {% highlight markdown %}
 
-<strong> Boston University </strong>  <em> Boston, MA </em> 
+**Boston University, Questrom School of Business** _,Boston, MA_
 
-<small>Expected Completion: Dec 2023</small>
+Expected Completion: Dec 2023
 
-<strong> Master of Science </strong>
+**Master of Science**
 
-<strong> Mathmateical Finance & Finicial Technology </strong>
+Mathematical Finance & Financial Technology
 
 {% endhighlight %}
