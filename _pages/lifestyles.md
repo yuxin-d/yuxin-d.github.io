@@ -2,7 +2,7 @@
 layout: page1
 title: Life Styles
 permalink: /lifestyles/
-images: [l1.jpg,l2.jpg]
+images: []
 ---
 ***
 
@@ -13,8 +13,8 @@ images: [l1.jpg,l2.jpg]
 ***
 
 
-<img height="200px" src="{{site.baseurl}}/images/l5.jpg" width="150px"/>
-_Eat in Boston_
+<img src="{{site.baseurl}}/images/l5.jpg" id="ex" />
+**Eat in Boston**
 
 ***
 
