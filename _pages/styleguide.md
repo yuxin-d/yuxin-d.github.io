@@ -2,7 +2,7 @@
 layout: page1
 title: Art Works
 permalink: /artworks/
-image: [08.jpg,09.jpg]
+images: [08.jpg, 09.jpg]
 ---
 
 A paragraph looks like this —
