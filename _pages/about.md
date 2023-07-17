@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: About
 permalink: /about/
 image: 001.jpg
