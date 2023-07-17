@@ -9,7 +9,7 @@ images: [l1.jpg,l2.jpg]
 
 ### Images
 
-<img height="10" src="{{site.baseurl}}/images/l8.jpg" width="10"/>
+<img height="10" src="/Users/Areedf/yuxin-d.github.io/images/l6.jpg" width="10"/>
 *eat*
 
 ***
