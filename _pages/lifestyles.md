@@ -74,7 +74,7 @@ images: []
       </div>
       <div class="col col-6 col-t-12">
         <div class="hero__image">
-          <img src="" alt="">
+          <img src="{{site.baseurl}}/images/u1.jpg" alt="">
         </div>
       </div>
     </div>
