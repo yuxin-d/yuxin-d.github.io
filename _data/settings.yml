@@ -10,8 +10,8 @@ description: modern minimal theme by Jekyll inspired
 author:
   name: Yuxin Deng
   image: 01.jpg
-  greeting: Welcome to my programming work page
-  bio: Designs, talks, and writes about <strong>web develop</strong>, <strong>technology</strong>, <strong>information security</strong> <br/>Loves <a href="https://youtube.com/playlist?list=PLeb5S4wtUOpEePUWEEmVJqtGMVhvn5LWD">dance</a>, <a href="lifestyles/">food</a>, sports.
+  greeting: <h4>Programming Work</h4>
+  bio: Designs, talks, and writes about web develop, technology, information security <br/>Loves <a href="https://youtube.com/playlist?list=PLeb5S4wtUOpEePUWEEmVJqtGMVhvn5LWD">dance</a>, <a href="lifestyles/">food</a>, sports <br/><p>Keep learning! Enjoy life &#128048;</p>
 
 
 #-------------------------------

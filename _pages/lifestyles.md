@@ -23,6 +23,11 @@ images: []
           <img src="{{site.baseurl}}/images/l2.jpg" alt="">
         </div>
       </div>
+      <div class="col col-6 col-t-12">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l4.jpg" alt="">
+        </div>
+      </div>
     </div>
   </div>
 </div>
