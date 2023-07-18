@@ -45,7 +45,6 @@ images: []
     </div>
   </div>
 </div>
-<p >Food Time!</p>
 <div class="yy">
   <div class="container">
     <div class="row">
