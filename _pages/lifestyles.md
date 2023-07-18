@@ -2,7 +2,7 @@
 layout: page1
 title: Life Styles
 permalink: /lifestyles/
-images: []
+images: [b1.jpg,u3.jpg]
 ---
 
 [//]: # (![]&#40;{{site.baseurl}}/images/l2.jpg&#41;)
@@ -75,6 +75,9 @@ images: []
       <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/u1.jpg" alt="">
+        </div>
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/u2.jpg" alt="">
         </div>
       </div>
     </div>
