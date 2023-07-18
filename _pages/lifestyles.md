@@ -37,10 +37,26 @@ images: []
           <img src="{{site.baseurl}}/images/l3.jpg" alt="">
         </div>
       </div>
-        *Eat in Boston*
       <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/l5.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<div class="yy">
+  <div class="container">
+    <div class="row">
+      <div class="col col-6 col-t-12">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l6.jpg" alt="">
+        </div>
+      </div>
+      <div class="col col-6 col-t-12">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l7.jpg" alt="">
         </div>
       </div>
     </div>
