@@ -7,20 +7,28 @@ images: []
 ***
 
 
-![]({{site.baseurl}}/images/l2.jpg)
-*Eat in LA*
+[//]: # (![]&#40;{{site.baseurl}}/images/l2.jpg&#41;)
 
-***
-
-
-<img src="{{site.baseurl}}/images/l5.jpg" id="ex" />
-*Eat in Boston*
-
-***
+[//]: # (*Eat in LA*)
 
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
+<div class="yy">
+  <div class="container">
+    <div class="row">
+      <div class="col col-7 col-t-14">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l1.jpg" alt="">
+        </div>
+      </div>
+        *Eat in LA*
+      <div class="col col-7 col-t-14">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l2.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ***
@@ -30,9 +38,10 @@ images: []
     <div class="row">
       <div class="col col-6 col-t-12">
         <div class="hero__image">
-          <img src="{{site.baseurl}}/images/09.jpg" alt="">
+          <img src="{{site.baseurl}}/images/l3.jpg" alt="">
         </div>
       </div>
+        *Eat in Boston*
       <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/l5.jpg" alt="">
