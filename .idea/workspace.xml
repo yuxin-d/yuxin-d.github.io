@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1fb2a1e4-a038-40f7-aa51-4d7c7cfdbb08" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/article-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/article-content.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/javascripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/javascripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/4-layouts/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/4-layouts/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/4-layouts/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/4-layouts/_post.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
