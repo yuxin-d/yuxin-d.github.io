@@ -13,19 +13,14 @@ images: []
 <div class="yy">
   <div class="container">
     <div class="row">
-      <div class="col col-4 col-t-12">
+      <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/l1.jpg" alt="">
         </div>
       </div>
-      <div class="col col-4 col-t-12">
+      <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="{{site.baseurl}}/images/l2.jpg" alt="">
-        </div>
-      </div>
-      <div class="col col-4 col-t-12">
-        <div class="hero__image">
-          <img src="{{site.baseurl}}/images/l4.jpg" alt="">
         </div>
       </div>
     </div>
@@ -68,3 +63,21 @@ images: []
 </div>
 
 ***
+*Vancouver*
+<div class="yy">
+  <div class="container">
+    <div class="row">
+      <div class="col col-6 col-t-12">
+        <div class="hero__image">
+          <img src="{{site.baseurl}}/images/l4.jpg" alt="">
+        </div>
+      </div>
+      <div class="col col-6 col-t-12">
+        <div class="hero__image">
+          <img src="" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
