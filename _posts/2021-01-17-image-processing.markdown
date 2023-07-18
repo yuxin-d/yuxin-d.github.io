@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Image Processing Project
+title:  Image Processing
 date:   2021-01-17 15:01:35 +0300
 image:  04.jpg
 tags:   Visualization
