@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb2a1e4-a038-40f7-aa51-4d7c7cfdbb08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/4-layouts/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/4-layouts/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-12-24-course-selection-search-engine.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-25-start-the-day-with-the-right-habit.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-04-25-clothes-sharing-app.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-23-find-a-connection-with-the-reader.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-17-image-processing.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-17-image-processing.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
