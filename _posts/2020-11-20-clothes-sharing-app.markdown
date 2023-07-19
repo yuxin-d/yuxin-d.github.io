@@ -23,7 +23,7 @@ Some key features we have:
 
 <div class="logo">
     <a class="logo__link" href="https://blogs.ubc.ca/cs444peartopear/">
-        <img class="figma_img" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="kk">
+        <img class="figma_img" src="https://drive.google.com/file/d/1ESdOwXiCe0dPTHNRgA4ycq74gkeFtwsW/view?usp=sharing" alt="kk">
     </a>
 </div>
 
