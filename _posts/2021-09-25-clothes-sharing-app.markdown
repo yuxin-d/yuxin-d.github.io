@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Clothes Sharing APP
-date:   2022-04-25 15:01:35 +0300
-image:  06.jpg
-tags:   UI/UX, HCI, Figma, Front-end
+date:   2021-09-25 15:01:35 +0300
+image:  03.jpg
+tags:   UI/UX HCI Figma
 ---
 
 <div class="UIdesign">

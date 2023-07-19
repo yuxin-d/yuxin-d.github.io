@@ -3,7 +3,7 @@ layout: post
 title:  Course Selection Search Engine
 date:   2021-12-24 15:01:35 +0300
 image:  02.jpg
-tags:   Full-stack, JavaScript, CSS, Node.js
+tags:   Full-stack JavaScript CSS Node.js
 ---
 *This is a full stack development project, designed for UBC student to do course and professor search* 
 It will benefit student to do course selection.
