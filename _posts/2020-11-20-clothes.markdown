@@ -1,0 +1,26 @@
+---
+layout: post
+title:  Clothes Sharing App
+date:   2020-11-20 16:05:36 +0300
+image:  02.jpg
+tags:   UI UX Figma
+---
+*This is a UI design for closet exchange
+
+## AAbb
+
+Some key features we have:
+1. aa
+2. bb
+3. cc
+
+
+### YES
+
+ddddddd
+
+* y
+* d
+
+xxxxxxx
+xxxxxxxxx
