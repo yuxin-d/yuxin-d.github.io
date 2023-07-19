@@ -6,9 +6,7 @@ image:  02.jpg
 tags:   UI/UX HCI Figma
 ---
 
-
-
-## UI deisgn for closet exchange_Sustainsbility
+## UI design for closet exchange
 
 Here are some key features in our design:
 1. Aa
@@ -21,8 +19,7 @@ Here are some key features in our design:
 *Minimalism*
 
 <div class="UIdesign">
-    <a class="logo__link" href="{{site.baseurl}}/">
-        <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
-        Yuxin Deng
+    <a class="logo__link" href="https://blogs.ubc.ca/cs444peartopear/">
+        <img class="cloth__link" src="{{ site.baseurl }}/images/02.jpg" alt="appRef">
     </a>
 </div>
