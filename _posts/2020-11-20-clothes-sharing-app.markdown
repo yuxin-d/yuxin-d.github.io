@@ -21,11 +21,11 @@ Some key features we have:
 
 ### YES
 
-<div class="logo">
-    <a class="logo__link" href="https://blogs.ubc.ca/cs444peartopear/">
-        <img class="figma_img" src="https://drive.google.com/file/d/1ESdOwXiCe0dPTHNRgA4ycq74gkeFtwsW/view?usp=sharing" alt="kk">
-    </a>
-</div>
+    <div class="logo">
+        <a class="logo__link" href="https://blogs.ubc.ca/cs444peartopear/">
+            <img class="figma_img" src="https://drive.google.com/file/d/1ESdOwXiCe0dPTHNRgA4ycq74gkeFtwsW/view?usp=sharing" alt="kk">
+        </a>
+    </div>
 
 * y
 * d
