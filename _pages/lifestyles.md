@@ -4,7 +4,7 @@ title: Life Styles
 permalink: /lifestyles/
 images: [u3.jpg]
 ---
-
+*UBC Ladner Clock Tower*
 [//]: # (![]&#40;{{site.baseurl}}/images/l2.jpg&#41;)
 [//]: # (*Eat in LA*)
 
