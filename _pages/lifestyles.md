@@ -4,8 +4,6 @@ title: Life Styles
 permalink: /lifestyles/
 images: [u3.jpg]
 ---
-UBC Ladner Clock Tower
-
 ***
 *Los Angeles*
 <div class="yy">
