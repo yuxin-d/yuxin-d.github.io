@@ -2,7 +2,7 @@
 layout: page1
 title: Life Styles
 permalink: /lifestyles/
-images: [b1.jpg,u3.jpg]
+images: [u3.jpg]
 ---
 
 [//]: # (![]&#40;{{site.baseurl}}/images/l2.jpg&#41;)
