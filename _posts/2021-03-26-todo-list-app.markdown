@@ -20,18 +20,22 @@ Todo List Application is a simple application that operated on both Windows and 
       </div>
       <div class="col col-4 col-t-12">
         <div class="todoApp">
+        <p>KEY FEATURES:</p>
           <ul>
             <li>
-             <span>Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities</span>
+                <pre>Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities</pre>
             </li>
             <li>
-                <b>Kept track of important dates and events, providing alters to users one day before the due date</b>
+                <pre>Kept track of important dates and events, providing alters to users one day before the due date</pre>
             </li>
             <li>
-                <b>Cross off a finished item at any time</b>
+                <pre>Cross off a finished item at any time</pre>
             </li>
             <li>
                 <pre>Included an overdue change that reminded users that an overdue item exists in the todo list</pre>
+            </li>
+            <li>
+                <pre>Enables users to save and load user data from existed files</pre>
             </li>
           </ul>
         </div>
@@ -44,14 +48,5 @@ Todo List Application is a simple application that operated on both Windows and 
 
 This Todo List application was the first personal programming project I have ever completed. The idea of having my own todolist application came to my mind after I completed my first university software construction course and I realized none of the task management software out there really meet my needs. If anyone is interested in trying out this app, you are more than welcome to visit my [GitHub](https://github.com/yuxin-d/todoList_App) site to download it from the repository :D
 
-KEY FEATURES:
 
-- Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities
 
-- Kept track of important dates and events, providing alters to users one day before the due date
-
-- Cross off a finished item at any time
-
-- Included an overdue change that reminded users that an overdue item exists in the todo list
-
-- Enables users to save and load user data from existed files
