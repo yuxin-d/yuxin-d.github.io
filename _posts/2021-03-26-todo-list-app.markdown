@@ -16,14 +16,13 @@ This Todo List application was the first personal java programming project I com
     <div class="row">
       <div class="col col-7 col-t-12">
         <div class="todoApp">
-          <img src="/images/todo1.jpg" alt="">
+          <img src="/images/todo4.jpg" alt="">
           <img src="/images/todo2.jpg" alt="">
           <img src="/images/todo3.jpg" alt="">
         </div>
       </div>
       <div class="col col-5 col-t-12">
         <div class="todoApp">
-        <img src="/images/todo4.jpg" alt="">
         <p>KEY FEATURES:</p>
           <ul>
             <li>
