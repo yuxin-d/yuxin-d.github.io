@@ -22,10 +22,13 @@ Todo List Application is a simple application that operated on both Windows and 
         <div class="todoApp">
           <ul>
             <li>
-                <i>Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities</i>
+                <tt>Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities</tt>
             </li>
             <li>
-                <i>Kept track of important dates and events, providing alters to users one day before the due date</i>
+                <b>Kept track of important dates and events, providing alters to users one day before the due date</b>
+            </li>
+            <li>
+                <b>Cross off a finished item at any time</b>
             </li>
           </ul>
         </div>
