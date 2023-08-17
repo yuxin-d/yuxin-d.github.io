@@ -27,7 +27,7 @@
 
 .post__info {
   display: flex;
-  align-items: left;
+  align-items: center;
 
   .post__author {
     margin-right: 10px;
@@ -63,7 +63,7 @@
 }
 
 .post-image {
-    background-size: none;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-color: $light-gray;
@@ -77,7 +77,7 @@
 }
 
 .post {
-  margin: 80px auto;
+  margin: 20px auto;
 
   &.post-no-image {
     margin: 0 auto 80px; 
@@ -161,9 +161,9 @@
 
     .post__nav__title {
       margin-bottom: 20px;
-      font-size: 27px;
+      font-size: 17px;
       line-height: 37px;
-      text-transform: uppercase;
+//       text-transform: uppercase;
       letter-spacing: 2px;
       text-align: center;
       
