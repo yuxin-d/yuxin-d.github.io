@@ -10,14 +10,16 @@ Todo List Application is a simple application that operated on both Windows and 
 <div class="yy">
   <div class="container">
     <div class="row">
-      <div class="col col-6 col-t-12">
+      <div class="col col-8 col-t-12">
         <div class="todoApp">
           <img height="200" src="/images/todo1.jpg" width="300"/>
+          <img src="/images/todo1.jpg" alt="">
           <img src="/images/todo2.jpg" alt="">
           <img src="/images/todo3.jpg" alt="">
+          <img src="/images/todo4.jpg" alt="">
         </div>
       </div>
-      <div class="col col-6 col-t-12">
+      <div class="col col-4 col-t-12">
         <div class="todoApp">
           <p> thissss </p>
         </div>
