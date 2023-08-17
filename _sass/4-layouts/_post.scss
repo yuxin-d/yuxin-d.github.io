@@ -77,7 +77,7 @@
 }
 
 .post {
-  margin: 20px auto;
+  margin: 80px auto;
 
   &.post-no-image {
     margin: 0 auto 80px; 
@@ -92,7 +92,7 @@
   }
 
   img {
-    margin: 10px 0;
+    margin: 20px 0;
   }
 }
 
@@ -135,7 +135,7 @@
 
   .prev,
   .next {
-    flex: 1 0 25%;
+    flex: 1 0 50%;
     &:last-child {
       padding-right: 0;
     }
