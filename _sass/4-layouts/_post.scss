@@ -27,7 +27,7 @@
 
 .post__info {
   display: flex;
-  align-items: center;
+  align-items: left;
 
   .post__author {
     margin-right: 10px;
@@ -63,7 +63,7 @@
 }
 
 .post-image {
-    background-size: contain;
+    background-size: none;
     background-position: center;
     background-repeat: no-repeat;
     background-color: $light-gray;
