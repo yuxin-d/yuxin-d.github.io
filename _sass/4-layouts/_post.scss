@@ -135,7 +135,7 @@
 
   .prev,
   .next {
-    flex: 1 0 50%;
+    flex: 1 0 25%;
     &:last-child {
       padding-right: 0;
     }
@@ -225,10 +225,3 @@
   }
 }
 
-.comments {
-  margin-bottom: 80px;
-
-  @media only screen and (max-width: $mobile) {
-    margin-bottom: 40px;
-  }
-}
