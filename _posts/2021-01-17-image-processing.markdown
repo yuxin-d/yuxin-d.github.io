@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Image Processing
-date:   2021-01-17 15:01:35 +0300
+title:  Image Processing Project
+date:   2021-01-17 11:00:00 +0300
 image:  04.jpg
-tags:   Python ML Visualization
+tags:   Python ML
 ---
 Here is a project for image processing 
 
