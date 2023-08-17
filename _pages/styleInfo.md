@@ -74,6 +74,8 @@ $('.top').removeClass("top-active");
 });
 {% endhighlight %}
 
+<img height="200" src="/images/xxx.jpg" width="300"/>
+
 ***
 
 ### Videos

@@ -12,7 +12,6 @@ Todo List Application is a simple application that operated on both Windows and 
     <div class="row">
       <div class="col col-8 col-t-12">
         <div class="todoApp">
-          <img height="200" src="/images/todo1.jpg" width="300"/>
           <img src="/images/todo1.jpg" alt="">
           <img src="/images/todo2.jpg" alt="">
           <img src="/images/todo3.jpg" alt="">
@@ -21,9 +20,16 @@ Todo List Application is a simple application that operated on both Windows and 
       </div>
       <div class="col col-4 col-t-12">
         <div class="todoApp">
-          <p> thissss </p>
+          <ul>
+            <li>
+                <i>Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities</i>
+            </li>
+            <li>
+                <i>Kept track of important dates and events, providing alters to users one day before the due date</i>
+            </li>
+          </ul>
         </div>
-      </div>
+     </div>
     </div>
   </div>
 </div>
@@ -34,11 +40,11 @@ This Todo List application was the first personal programming project I have eve
 
 KEY FEATURES:
 
-- Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities.
+- Personalized Login Window, requires username and passwords, allows multi-user access while providing privacy securities
 
 - Kept track of important dates and events, providing alters to users one day before the due date
 
-- Cross off a finished item at any time!
+- Cross off a finished item at any time
 
 - Included an overdue change that reminded users that an overdue item exists in the todo list
 
