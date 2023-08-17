@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  Todo List Application 
 date:   2021-03-26
 image:  todo.jpg
@@ -7,8 +7,24 @@ tags:   Java
 ---
 Todo List Application is a simple application that operated on both Windows and Mac OS, provides users with wonderful task management experience with its clean, simplified and user-friendly GUI.
 
+<div class="yy">
+  <div class="container">
+    <div class="row">
+      <div class="col col-6 col-t-12">
+        <div class="todoApp">
+          <img height="200" src="/images/todo1.jpg" width="300"/>
+        </div>
+      </div>
+      <div class="col col-6 col-t-12">
+        <div class="todoApp">
+          <p> thissss </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-<img height="200" src="/images/todo1.jpg" width="100"/>({{ site.baseurl }}/images/todo1.jpg)
+
 
 This Todo List application was the first personal programming project I have ever completed. The idea of having my own todolist application came to my mind after I completed my first university software construction course and I realized none of the task management software out there really meet my needs. If anyone is interested in trying out this app, you are more than welcome to visit my [GitHub](https://github.com/yuxin-d/todoList_App) site to download it from the repository :D
 
