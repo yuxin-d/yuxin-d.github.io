@@ -34,13 +34,13 @@ This Todo List application was the first personal java programming project I com
             <li>
                 <pre>Allows multi-user access while providing privacy securities</pre></li>
             <li>
-                <pre>Kept track of important dates and events, support priority setting</pre></li>
+                <pre>Keeps track of important dates and events, support priority setting</pre></li>
             <li>
-                <pre>Provide alters to users one day before the due date</pre></li>
+                <pre>Provides alters to users one day before the due date</pre></li>
             <li>
                 <pre>Cross off a finished item at any time</pre></li>
             <li>
-                <pre>Included an overdue change that reminded users the overdue items exist in the todo list</pre></li>
+                <pre>Includes an overdue change that reminded users the overdue items exist in the todo list</pre></li>
             <li>
                 <pre>Enables users to save and load user data from existed files</pre>
             </li>
