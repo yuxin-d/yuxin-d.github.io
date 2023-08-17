@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb2a1e4-a038-40f7-aa51-4d7c7cfdbb08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-03-26-todo-list-app.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-26-todo-list-app.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/todo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/todo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/todo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/todo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/todo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/todo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/todo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/todo4.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
