@@ -1,4 +1,10 @@
-TODO LIST APPLICATION
+---
+layout: post
+title:  TODO LIST APPLICATION
+date:   2021-01-17 15:01:35 +0300
+image:  todo.jpg
+tags:   Python ML Visualization
+---
 Todo List Application is a simple application that operated on both Windows and Mac OS, provides users with wonderful task management experience with its clean, simplified and user-friendly GUI.
 
 This Todo List application was the first personal programming project I have ever completed. The idea of having my own todolist application came to my mind after I completed my first university software construction course and I realized none of the task management software out there really meet my needs. If anyone is interested in trying out this app, you are more than welcome to visit my [GitHub](https://github.com/yuxin-d/todoList_App) site to download it from the repository :D
