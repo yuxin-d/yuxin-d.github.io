@@ -21,6 +21,7 @@ This project has the potential to be applied in various fields, including health
       <div class="col col-6 col-t-12">
         <div class="imageP">
           <img src="/images/04.jpg" alt="">
+          <img src="/images/aaa.gif" alt="test">
         </div>
       </div>
       <div class="col col-6 col-t-12">
@@ -34,7 +35,7 @@ This project has the potential to be applied in various fields, including health
                 <pre>Robotics:<br>Robots use object recognition to interact with their environment, pick and place objects, and navigate autonomously.
                 </pre></li>
             <li>
-                <pre>Keeps track of important dates and events, support priority setting</pre></li>
+                Keeps track of important dates and events, support priority setting</li>
             <li>
                 <pre>Provides alters to users one day before the due date</pre></li>
             <li>
