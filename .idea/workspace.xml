@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb2a1e4-a038-40f7-aa51-4d7c7cfdbb08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-17-image-processing.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-17-image-processing.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-24-course-selection-search-engine.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-24-course-selection-search-engine.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact-link.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
