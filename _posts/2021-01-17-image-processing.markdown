@@ -35,8 +35,6 @@ This project has the potential to be applied in various fields, including health
                 <pre>Robotics:<br>Robots use object recognition to interact with their environment, pick and place objects, and navigate autonomously.
                 </pre></li>
             <li>
-                Keeps track of important dates and events, support priority setting</li>
-            <li>
                 <pre>Provides alters to users one day before the due date</pre></li>
             <li>
                 <pre>Cross off a finished item at any time</pre></li>
